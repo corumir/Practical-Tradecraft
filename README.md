@@ -10,6 +10,7 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [Formalizing Event Time Bounding in Digital Investigations](http://www.utica.edu/academic/institutes/ecii/publications/articles/B4A90270-B5A9-6380-68863F61C2F7603D.pdf)
   * [Types of Crime Analysis](http://www.iaca.net/Publications/Whitepapers/iacawp_2014_02_definition_types_crime_analysis.pdf)
   * [Office Exploit Generators](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophos-office-exploit-generators-szappanos.pdf?la=en)
+  * [Cyber Intelligence Tradecraft Project](https://resources.sei.cmu.edu/asset_files/WhitePaper/2013_019_001_40212.pdf)
 
 ## Resources
   * [x86 Opcode Structure and Instructions](https://net.cs.uni-bonn.de/fileadmin/user_upload/plohmann/x86_opcode_structure_and_instruction_overview.pdf)
