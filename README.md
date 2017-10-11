@@ -26,6 +26,7 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [Intelligence Tradecraft and Technology 2015](http://www.cyintanalysis.com/intelligence-technology-and-tradecraft-in-2015/)
   * [Write or it Didn't happen](http://www.cyintanalysis.com/write-it-or-it-didnt-happen/)
   * [DNS Best Practices, Network Protections, and Attack Identification](https://www.cisco.com/c/en/us/about/security-center/dns-best-practices.html)
+  * [Guildlines for Drawing Causal Loop Diagrams](https://thesystemsthinker.com/guidelines-for-drawing-causal-loop-diagrams-2/)
 
 ## Presentations
   * [Premise-Response](https://www.slideshare.net/1enchantress/matching-type-37879883)
@@ -35,3 +36,7 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/index.php)
   * [YARA](http://yara.readthedocs.io/en/v3.6.0/)
   * [Bro](https://www.bro.org/)
+  
+## Metrics
+  * [Cyber Threat Metrics](https://fas.org/irp/eprint/metrics.pdf)
+  
