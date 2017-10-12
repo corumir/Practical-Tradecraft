@@ -1,5 +1,5 @@
 # Practical-Tradecraft
-Resources, articles, thoughts, datasets, papers on TI tradecraft
+Resources, articles, thoughts, datasets, papers on (cyber)(threat) intelligence tradecraft
 
 ## Papers
   * [Detecting Targeted Malicious Email](http://papers.rohanamin.com/wp-content/uploads/papers.rohanamin.com/2011/08/amin_dissertation_final.pdf)
@@ -19,9 +19,11 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [CIA Center for Study of Intelligence](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications)
   * [Intelligence Requirements](http://www.s2company.com/files/readings/258.php)
   * Compendium of Analytic Tradenotes(http://intellit.muskingum.edu/analysis_folder/di_catn_Folder/contents.htm)
+  * [The Literature of Intelligence: A Bibliography of Materials, with Essays, Reviews, and Comments](http://intellit.muskingum.edu/maintoc.html)
 
 ## Datasets and Data Sources
   * [Virustotal](http://www.virustotal.com)
+  * [Alienvault OTX](https://otx.alienvault.com)
 
 ## Articles
   * [Known your Foe Series](http://blog.passivetotal.org/tag/know-your-foe/)
@@ -31,6 +33,7 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [Guildlines for Drawing Causal Loop Diagrams](https://thesystemsthinker.com/guidelines-for-drawing-causal-loop-diagrams-2/)
   * [The "thinking" in systems thinking - how to make it easier to master](https://thesystemsthinker.com/the-thinking-in-systems-thinking-how-can-we-make-it-easier-to-master/)
   * [Spies, Lies, and Weapons: What Went Wrong](https://www.theatlantic.com/past/docs/issues/2004/01/media-preview/pollack.htm)
+  * [Baloney Detection Part I](https://michaelshermer.com/2001/11/baloney-detection/) [Part II](https://michaelshermer.com/2001/12/more-baloney-detection/)
 
 ## Presentations
   * [Premise-Response](https://www.slideshare.net/1enchantress/matching-type-37879883)
@@ -52,10 +55,17 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [Logical Fallacies](http://www.logicalfallacies.info/)
   * [Skeptics Field Guide](http://www.skepticsfieldguide.net/)
   * [Traps of Formal Logic](https://web.stanford.edu/~rhorn/a/topic/phil/artclTrapsOfFormalLogic.html)
+  * [A course in Logic](http://www.philosophypages.com/lg/index.htm)
+  * [Informal Logic](https://plato.stanford.edu/entries/logic-informal/)
+  * [Toulman Method](https://writing.colostate.edu/guides/guide.cfm?guideid=58)
 
 ## Writing and Reporting
   * [Six Evil Geniuses](http://faculty.georgetown.edu/kingch/Six_Evil_Geniuses.htm)
+  * [Paramedic Method](https://owl.english.purdue.edu/media/pdf/20080306044511_727.pdf)
   
-## Other
+## Statistics and Probability
   * [The odds of that](http://www.nytimes.com/2002/08/11/magazine/the-odds-of-that.html)
+  * [Collected Forsooths](https://www.causeweb.org/wiki/chance/index.php/Collected_Forsooths)
+  * [Chance News](https://www.causeweb.org/wiki/chance/index.php/Main_Page)
+  * [Statistics every writer should know](http://www.robertniles.com/stats/)
   
