@@ -11,12 +11,14 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [Types of Crime Analysis](http://www.iaca.net/Publications/Whitepapers/iacawp_2014_02_definition_types_crime_analysis.pdf)
   * [Office Exploit Generators](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophos-office-exploit-generators-szappanos.pdf?la=en)
   * [Cyber Intelligence Tradecraft Project](https://resources.sei.cmu.edu/asset_files/WhitePaper/2013_019_001_40212.pdf)
+  * [Practical Thinking: Innovation in Battle Command Instruction](http://www.au.af.mil/au/awc/awcgate/army/ada310096.pdf)
 
 ## Resources
   * [x86 Opcode Structure and Instructions](https://net.cs.uni-bonn.de/fileadmin/user_upload/plohmann/x86_opcode_structure_and_instruction_overview.pdf)
   * [Evilness Rating](https://www.threatconnect.com/wp-content/uploads/ThreatConnect-Evilness-OneSheet.pdf)
   * [CIA Center for Study of Intelligence](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications)
   * [Intelligence Requirements](http://www.s2company.com/files/readings/258.php)
+  * Compendium of Analytic Tradenotes(http://intellit.muskingum.edu/analysis_folder/di_catn_Folder/contents.htm)
 
 ## Datasets and Data Sources
   * [Virustotal](http://www.virustotal.com)
@@ -27,6 +29,8 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [Write or it Didn't happen](http://www.cyintanalysis.com/write-it-or-it-didnt-happen/)
   * [DNS Best Practices, Network Protections, and Attack Identification](https://www.cisco.com/c/en/us/about/security-center/dns-best-practices.html)
   * [Guildlines for Drawing Causal Loop Diagrams](https://thesystemsthinker.com/guidelines-for-drawing-causal-loop-diagrams-2/)
+  * [The "thinking" in systems thinking - how to make it easier to master](https://thesystemsthinker.com/the-thinking-in-systems-thinking-how-can-we-make-it-easier-to-master/)
+  * [Spies, Lies, and Weapons: What Went Wrong](https://www.theatlantic.com/past/docs/issues/2004/01/media-preview/pollack.htm)
 
 ## Presentations
   * [Premise-Response](https://www.slideshare.net/1enchantress/matching-type-37879883)
@@ -36,7 +40,22 @@ Resources, articles, thoughts, datasets, papers on TI tradecraft
   * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/index.php)
   * [YARA](http://yara.readthedocs.io/en/v3.6.0/)
   * [Bro](https://www.bro.org/)
+  * [Thought Mapping Online](http://www.truthmapping.com/) 
   
 ## Metrics
   * [Cyber Threat Metrics](https://fas.org/irp/eprint/metrics.pdf)
+  
+## Critical Thinking and Logic
+  * [Argument Mapping Basics](http://www.jostwald.com/ArgumentMapping/ARGUMENT%20MAPPING.pdf)
+  * [How language really works](http://www.criticalreading.com/)
+  * [The Logical Fallacies](http://www.onegoodmove.org/fallacy/toc.htm)
+  * [Logical Fallacies](http://www.logicalfallacies.info/)
+  * [Skeptics Field Guide](http://www.skepticsfieldguide.net/)
+  * [Traps of Formal Logic](https://web.stanford.edu/~rhorn/a/topic/phil/artclTrapsOfFormalLogic.html)
+
+## Writing and Reporting
+  * [Six Evil Geniuses](http://faculty.georgetown.edu/kingch/Six_Evil_Geniuses.htm)
+  
+## Other
+  * [The odds of that](http://www.nytimes.com/2002/08/11/magazine/the-odds-of-that.html)
   
