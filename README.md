@@ -12,14 +12,22 @@ Resources, articles, thoughts, datasets, papers on (cyber)(threat) intelligence 
   * [Office Exploit Generators](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophos-office-exploit-generators-szappanos.pdf?la=en)
   * [Cyber Intelligence Tradecraft Project](https://resources.sei.cmu.edu/asset_files/WhitePaper/2013_019_001_40212.pdf)
   * [Practical Thinking: Innovation in Battle Command Instruction](http://www.au.af.mil/au/awc/awcgate/army/ada310096.pdf)
+  * [Methods and Tools for Automated Data Collection and Collation of Open Source Information](http://cradpdf.drdc-rddc.gc.ca/PDFS/unc126/p537793_A1b.pdf)
+  * [Six Steps in Intelligence Cycle](http://fusioncenter.golearnportal.org/rawmedia_repository/b4e1b56dcf572f53b00ee43a31b34223?/document.pdf)
+  * [Criminal Intelligence for Analysts](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf)
+  * [Application of Network Analysis to Criminal Intelligence](https://sites.hks.harvard.edu/fs/msparrow/documents--in%20use/Application%20of%20Network%20Analysis%20to%20Criminal%20Intelligence--Social%20Networks--1991.pdf)
+  * [Successful law enforcement using analytic methods](http://www.ialeia.org/docs/Succesful_LE_Analytic_Methods.pdf)
+  * [Psychology of Intelligence Analysis](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
 
 ## Resources
   * [x86 Opcode Structure and Instructions](https://net.cs.uni-bonn.de/fileadmin/user_upload/plohmann/x86_opcode_structure_and_instruction_overview.pdf)
   * [Evilness Rating](https://www.threatconnect.com/wp-content/uploads/ThreatConnect-Evilness-OneSheet.pdf)
   * [CIA Center for Study of Intelligence](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications)
   * [Intelligence Requirements](http://www.s2company.com/files/readings/258.php)
-  * Compendium of Analytic Tradenotes(http://intellit.muskingum.edu/analysis_folder/di_catn_Folder/contents.htm)
+  * [Compendium of Analytic Tradenotes](http://intellit.muskingum.edu/analysis_folder/di_catn_Folder/contents.htm)
   * [The Literature of Intelligence: A Bibliography of Materials, with Essays, Reviews, and Comments](http://intellit.muskingum.edu/maintoc.html)
+  * [Intelligence Management](https://www.app.college.police.uk/app-content/intelligence-management/analysis/)
+  
 
 ## Datasets and Data Sources
   * [Virustotal](http://www.virustotal.com)
@@ -34,10 +42,21 @@ Resources, articles, thoughts, datasets, papers on (cyber)(threat) intelligence 
   * [The "thinking" in systems thinking - how to make it easier to master](https://thesystemsthinker.com/the-thinking-in-systems-thinking-how-can-we-make-it-easier-to-master/)
   * [Spies, Lies, and Weapons: What Went Wrong](https://www.theatlantic.com/past/docs/issues/2004/01/media-preview/pollack.htm)
   * [Baloney Detection Part I](https://michaelshermer.com/2001/11/baloney-detection/) [Part II](https://michaelshermer.com/2001/12/more-baloney-detection/)
+  * [Guidelines for examining evidence](https://www.epo.org/law-practice/legal-texts/html/guidelines/e/e_iii_4.htm)
+  * [Biasis in evaluation of evidence](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/art13.html)
+  * [Link Analysis](http://infolab.stanford.edu/~ullman/mmds/ch5.pdf)
+  * [How Link Analysis Works for SEO](https://www.seo-theory.com/how-link-analysis-works-for-seo/)
+  * [Top 5 Intelligence Analyst Methods](http://sourcesandmethods.blogspot.com/2008/12/top-5-intelligence-analysis-methods_11.html)
+  * [Potential of Social Network Analysis in Intelligence](http://www.e-ir.info/2014/01/09/the-potential-of-social-network-analysis-in-intelligence/)
+  * [Association Analysis](http://dustinkmacdonald.com/iotp/association-analysis/)
+  * [Traffic Analysis for Network Security: Two Approaches for Going Beyond Network Flow Data](https://insights.sei.cmu.edu/sei_blog/2016/09/traffic-analysis-for-network-security-two-approaches-for-going-beyond-network-flow-data.html)
+  
 
 ## Presentations
   * [Premise-Response](https://www.slideshare.net/1enchantress/matching-type-37879883)
   * [Text Stream Analysis](http://www.slideshare.net/mgrcar/text-and-text-stream-mining-tutorial-15137759)
+  * [Graph Mining with R](https://www.csc2.ncsu.edu/faculty/nfsamato/practical-graph-mining-with-R/slides/pdf/Link_Analysis.pdf)
+  * [Leveraging Social Data with Semantics](https://www.slideshare.net/fabien_gandon/leveraging-social-data-with-semantics-presentation-919678/9-Fabien_Michel_d_in_p)
   
 ## Tools, Code and Relevant Projects
   * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/index.php)
@@ -58,6 +77,7 @@ Resources, articles, thoughts, datasets, papers on (cyber)(threat) intelligence 
   * [A course in Logic](http://www.philosophypages.com/lg/index.htm)
   * [Informal Logic](https://plato.stanford.edu/entries/logic-informal/)
   * [Toulman Method](https://writing.colostate.edu/guides/guide.cfm?guideid=58)
+  * [Techniques for Argument Restatement](http://faculty.msb.edu/homak/homahelpsite/webhelp/Content/Problem%20Restatement%20Techniques.htm)
 
 ## Writing and Reporting
   * [Six Evil Geniuses](http://faculty.georgetown.edu/kingch/Six_Evil_Geniuses.htm)
