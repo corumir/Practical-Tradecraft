@@ -19,6 +19,7 @@ Resources, articles, thoughts, datasets, papers on (cyber)(threat) intelligence 
   * [Successful law enforcement using analytic methods](http://www.ialeia.org/docs/Succesful_LE_Analytic_Methods.pdf)
   * [Psychology of Intelligence Analysis](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
   * [Predicting, Decrypting, and Abusing WPA2/802.11 Group Keys](https://lirias.kuleuven.be/bitstream/123456789/547640/1/usenix2016-wifi.pdf)
+  * [Practical Waterholing through DNS](https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e)
 
 ## Resources
   * [x86 Opcode Structure and Instructions](https://net.cs.uni-bonn.de/fileadmin/user_upload/plohmann/x86_opcode_structure_and_instruction_overview.pdf)
