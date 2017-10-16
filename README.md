@@ -18,6 +18,7 @@ Resources, articles, thoughts, datasets, papers on (cyber)(threat) intelligence 
   * [Application of Network Analysis to Criminal Intelligence](https://sites.hks.harvard.edu/fs/msparrow/documents--in%20use/Application%20of%20Network%20Analysis%20to%20Criminal%20Intelligence--Social%20Networks--1991.pdf)
   * [Successful law enforcement using analytic methods](http://www.ialeia.org/docs/Succesful_LE_Analytic_Methods.pdf)
   * [Psychology of Intelligence Analysis](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
+  * [Predicting, Decrypting, and Abusing WPA2/802.11 Group Keys](https://lirias.kuleuven.be/bitstream/123456789/547640/1/usenix2016-wifi.pdf)
 
 ## Resources
   * [x86 Opcode Structure and Instructions](https://net.cs.uni-bonn.de/fileadmin/user_upload/plohmann/x86_opcode_structure_and_instruction_overview.pdf)
